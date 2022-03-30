@@ -1,3 +1,3 @@
 # futug.github.io
 my first site
-Тимур
+Тимур Нафиков
