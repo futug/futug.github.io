@@ -1,2 +1,2 @@
 # futug.github.io
-my fitst site
+my first site
